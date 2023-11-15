@@ -2,6 +2,7 @@ import pyautogui
 import time
 import mysql.connector
 from tkinter import *
+# ------Armazenamento de histórico de pesquisa--------#
 #conexao = mysql.connector.connect(
 #            host="",
 #            user="",
